@@ -1,7 +1,7 @@
-# OpeartingSystems
+## OpeartingSystems
 Implementation of various algorithms in Operating Systems
 
-### List of Programs -
+#### List of Programs -
 1. Bankers Algorithm
 2. Directed Acyclic Graph
 3. Deadlock Detection Algorithm
@@ -23,3 +23,5 @@ Implementation of various algorithms in Operating Systems
 19. Sequential file allocation
 20. Single level file directory structure
 21. Two level file directory structure
+
+#### Language - C
